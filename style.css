@@ -1,0 +1,28 @@
+.jumbotron {
+  padding: 8rem;
+  background-color: #ffffff;
+}
+
+.active {
+  font-weight: 700;
+  color: #212529 !important;
+}
+
+.btn-login {
+  background-color: #212529;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-family: Verdana;
+  color: aqua;
+  font-weight: 900;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+#contact {
+  min-height: 550px;
+}
